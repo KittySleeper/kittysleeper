@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/KittySleeper/kittysleeper/refs/heads/main/readme%20assets/github-header-banner.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittysleeper&show_icons=true&hide_title=true&bg_color=200000&text_color=ff8400&title_color=ffffff&icon_color=ffffff&card_width=650&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittysleeper&show_icons=true&hide_title=true&bg_color=ffffff00&border_color=004490&text_color=ff8400&title_color=ffffff&icon_color=ffffff&card_width=1700&border_radius=15)
 
 # About Me~!
 
