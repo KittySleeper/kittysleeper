@@ -9,4 +9,7 @@ I Am Mostly A Frontend Programmer That Works On [Friday Night Funkin](https://gi
 ## Languages I Code In
 
 <h4>
-<a href="https://haxe.org"> <img title="Haxe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="48"/> <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1280px-Logo_C_sharp.svg.png" width="48"></h4>
+<a href="https://haxe.org"> <img title="Haxe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="48"/>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1280px-Logo_C_sharp.svg.png" width="48">
+<a href="https://godotengine.org/"> <img title="Godot/GDScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/3840px-Godot_icon.svg.png" width="48">
+</h4>
